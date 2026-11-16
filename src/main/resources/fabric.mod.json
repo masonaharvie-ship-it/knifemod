@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "knifemod",
+	"version": "${version}",
+	"name": "Knife Mod",
+	"description": "CS:GO-style knives: karambit, butterfly knife, switchblade, flip knife and more, with a flashy inspect animation and a random knife case.",
+	"authors": ["You"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.example.knifemod.KnifeMod"],
+		"client": ["com.example.knifemod.client.KnifeModClient"]
+	},
+	"mixins": [
+		{
+			"config": "knifemod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

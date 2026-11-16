@@ -1,0 +1,22 @@
+{
+  "item.knifemod.karambit": "\u2605 Karambit",
+  "item.knifemod.butterfly_knife": "\u2605 Butterfly Knife",
+  "item.knifemod.switchblade": "\u2605 Switchblade",
+  "item.knifemod.flip_knife": "\u2605 Flip Knife",
+  "item.knifemod.bayonet": "\u2605 Bayonet",
+  "item.knifemod.m9_bayonet": "\u2605 M9 Bayonet",
+  "item.knifemod.huntsman_knife": "\u2605 Huntsman Knife",
+  "item.knifemod.gut_knife": "\u2605 Gut Knife",
+  "item.knifemod.bowie_knife": "\u2605 Bowie Knife",
+  "item.knifemod.falchion_knife": "\u2605 Falchion Knife",
+  "item.knifemod.navaja_knife": "\u2605 Navaja Knife",
+  "item.knifemod.stiletto_knife": "\u2605 Stiletto Knife",
+  "item.knifemod.talon_knife": "\u2605 Talon Knife",
+  "item.knifemod.ursus_knife": "\u2605 Ursus Knife",
+  "item.knifemod.skeleton_knife": "\u2605 Skeleton Knife",
+  "item.knifemod.kukri_knife": "\u2605 Kukri Knife",
+  "item.knifemod.knife_case": "Knife Case",
+  "key.knifemod.inspect": "Inspect Knife",
+  "key.knifemod.menu": "Open Knife Menu",
+  "key.category.knifemod.main": "Knife Mod"
+}
